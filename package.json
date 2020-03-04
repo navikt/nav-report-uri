@@ -1,0 +1,17 @@
+{
+  "name": "nav-report-uri",
+  "version": "1.0.0",
+  "description": "A report-uri implementation for NAV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "content-security-policy": "^0.3.3",
+    "express": "^4.16.4",
+    "prom-client": "^11.2.0"
+  }
+}
