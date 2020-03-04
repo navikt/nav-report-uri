@@ -1,3 +1,5 @@
+![Build, push, and deploy](https://github.com/navikt/nav-report-uri/workflows/Build,%20push,%20and%20deploy/badge.svg)
+
 # NAV Report URI tool
 
 This application listens for [CSP](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) violation reports on `/nav-report-uri/report`
