@@ -20,3 +20,4 @@ will lead to reports in the logs, and increased Prometheus counters.
 ### Prometheus
 
 The app will expose statistics on `http://localhost:8080/nav-report-uri/metrics`.
+
