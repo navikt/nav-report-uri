@@ -27,7 +27,7 @@ spec:
     enabled: true
     path: /metrics
   ingresses:
-    - "https://tjenester.nav.no/nav-report-uri"
+    - "https://nav-report-uri.prod-sbs.nais.io"
   resources:
     limits:
       cpu: 800m
