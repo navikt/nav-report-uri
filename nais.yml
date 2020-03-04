@@ -6,7 +6,7 @@ metadata:
   labels:
     team: aura
 spec:
-  image: "{{ IMAGE }}"
+  image: "{{ image }}"
   port: 8080
   liveness:
     path: /nav-report-uri/health
