@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "content-security-policy": "^0.3.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "prom-client": "^11.2.0"
   }
 }
